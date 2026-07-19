@@ -53,13 +53,13 @@ The weather data collected from Lagos, Abuja, and Port Harcourt was analyzed to 
 
 ## Key Findings
 
-- Port Harcourt recorded the highest temperature at 27.16°C.
-- Abuja recorded a temperature of 25.52°C.
-- Lagos recorded the lowest temperature at 24.56°C.
-- Lagos had the highest humidity level at 89%.
+- Port Harcourt recorded the highest temperature at 23.13°C.
+- Abuja recorded the lowest  temperature of 21.03°C.
+- Lagos recorded a temperature at 22.98°C.
+- Abuja had the highest humidity level at 97%.
 - All three cities experienced Clouds as their weather condition at the time the data was collected.
 
 ## Conclusion 
-The analysis showed variations in temperature and humidity across the selected cities. As at the time the data was collected, Port Harcourt was the warmest city, while Lagos had the highest humidity level. Despite these differences, all three cities shared the same weather condition (Clouds) when the data was retrieved from the OpenWeather API.
+The weather data and analysis reflect conditions at the time the data was collected and may change as weather conditions update.
 
 
